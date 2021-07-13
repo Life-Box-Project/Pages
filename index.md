@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Life-box
 
 You can use the [editor on GitHub](https://github.com/Life-Box-Project/Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
